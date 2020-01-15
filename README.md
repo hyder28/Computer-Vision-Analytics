@@ -1,1 +1,1 @@
-# Computer-Vision-Analytics
+Refer to Wiki
